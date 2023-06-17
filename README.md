@@ -10,15 +10,17 @@ The goal of this project is to perform data analytics on YellowTaxi data using v
 ## Technology Used
 
 Programming Language  
+
 •	Python
 
 Google Cloud Platform
+
 •	Google Storage
 •	Compute Instance
 •	BigQuery
 •	Looker Studio
 
-## Modern Data Pipeline Tool - https://www.mage.ai/
+Modern Data Pipeline Tool - https://www.mage.ai/
 
 ## Dataset Used
 
